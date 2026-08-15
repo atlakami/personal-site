@@ -1,3 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Space Grotesk';
+    text-decoration: none;
+    scroll-behavior: smooth;
+    list-style: none;
+}
+
 body {
     background-image: url('background.png');
     background-size: cover;

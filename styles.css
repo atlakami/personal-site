@@ -43,7 +43,7 @@ h1 {
     border-radius: 1rem;
 }
 
-.nav-links {
+.nav {
     display: flex;
     gap: 2rem;
 }

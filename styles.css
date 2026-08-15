@@ -6,7 +6,7 @@ body {
     background-repeat: no-repeat;
 }
 
-.project1 {
-    width: 300px;
-    height: 300px;
+#project1img {
+    width: 100px;
+    height: 100px;
 }

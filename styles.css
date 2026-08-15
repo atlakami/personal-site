@@ -56,7 +56,7 @@ li a {
 }
 
 section {
-    min-height: 100vh;
+    min-height: 50vh;
     padding: 5rem 10%;
     width: 100%;
     position: relative;

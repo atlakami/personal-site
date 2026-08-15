@@ -27,6 +27,10 @@ header {
     padding: 0.5rem 1.5rem;
 }
 
+h1 {
+    color: white;
+}
+
 #project1img {
     width: 100px;
     height: 100px;

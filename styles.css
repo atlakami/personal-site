@@ -63,10 +63,10 @@ section {
     position: relative;
 }
 
-p {
+.section p {
     color: white;
 }
 
-h2 {
+.section h2 {
     color: white;
 }

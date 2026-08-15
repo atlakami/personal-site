@@ -16,6 +16,19 @@ body {
     background-repeat: no-repeat;
 }
 
+header {
+    position: fixed;
+    transform: translateX(-50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5rem;
+    backdrop-filter: blur(16px);
+    padding: 0.5rem 1.5rem;
+    border-radius: 5rem;
+    z-index: 1000;
+}
+
 #project1img {
     width: 100px;
     height: 100px;

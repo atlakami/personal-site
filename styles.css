@@ -37,3 +37,14 @@ header {
     height: 300px;
     background-color: #ffffff;
 }
+
+.nav-links {
+    display: flex;
+    gap: 2rem;
+}
+
+li a {
+    position: relative;
+    color: white;
+    font-weight: 300;
+}

@@ -52,6 +52,7 @@ header img {
     justify-content: center;
     align-items: center;
     display: flex;
+    flex-direction: column;
 }
 
 .project1 h3 {

@@ -29,9 +29,9 @@ header {
     background-color: white;
 }
 
-h1 {
-    color: black;
-    text-align: center;
+header #logo {
+    width: 182px;
+    height: 38px;
 }
 
 #project1img {

@@ -21,6 +21,7 @@ header {
     top: 0.3rem;
     transform: translateX(-50%);
     left: 50%;
+    display: flex;
     align-items: center;
     justify-content: center;
     gap: 5rem;
@@ -28,6 +29,7 @@ header {
     z-index: 1000;
     background-color: white;
     border-radius: 8rem;
+    backdrop-filter: blur(4px);
 }
 
 header img {

@@ -33,6 +33,7 @@ header {
 header #logo {
     width: 182px;
     height: 38px;
+    align-self: center;
 }
 
 #project1img {

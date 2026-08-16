@@ -44,8 +44,16 @@ h1 {
     background-color: #323232;
     border-radius: 1rem;
     padding: 0.5rem 1.5rem;
-    align-items: center;
-    justify-content: center;
+}
+
+.project1 h3 {
+    color: white;
+    text-align: center;
+}
+
+.project1 p {
+    color: white;
+    text-align: center;
 }
 
 .nav {

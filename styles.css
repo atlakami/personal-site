@@ -66,6 +66,12 @@ h1 {
 
 }
 
+.project1 button:hover {
+    background-color: mediumpurple;
+    color: white;
+    border: white;
+}
+
 .nav {
     display: flex;
     gap: 2rem;

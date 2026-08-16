@@ -49,6 +49,9 @@ header img {
     background-color: #323232;
     border-radius: 1rem;
     padding: 0.5rem 1.5rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
 }
 
 .project1 h3 {

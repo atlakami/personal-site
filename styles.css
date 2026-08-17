@@ -109,5 +109,5 @@ section {
 }
 
 .projects_container {
-    gap: 1rem;
+    gap: 1rem, 1rem;
 }

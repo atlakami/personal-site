@@ -98,7 +98,6 @@ section {
     padding: 5rem 10%;
     width: 100%;
     position: relative;
-    gap: 2rem;
 }
 
 .section p {
@@ -109,6 +108,6 @@ section {
     color: white;
 }
 
-#projects {
+.projects_container {
     gap: 1rem;
 }

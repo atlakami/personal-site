@@ -98,6 +98,7 @@ section {
     padding: 5rem 10%;
     width: 100%;
     position: relative;
+    gap: 2rem;
 }
 
 .section p {

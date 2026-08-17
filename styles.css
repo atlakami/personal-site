@@ -108,6 +108,10 @@ section {
     color: white;
 }
 
-.projects_container {
-    gap: 1rem, 1rem;
+.projects_container h2 {
+    margin-bottom: 1rem;
+}
+
+.projects_container p {
+    margin-bottom: 1rem;
 }

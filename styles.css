@@ -69,18 +69,18 @@ header img {
 
 .project1 button {
     background-color: white;
-    color: mediumpurple;
+    color: lightskyblue;
     padding: 0.5rem 1.5rem;
-    border: mediumpurple;
+    border-color: lightskyblue;
     border-width: 3px;
     border-radius: 5rem;
 
 }
 
 .project1 button:hover {
-    background-color: mediumpurple;
+    background-color: lightskyblue;
     color: white;
-    border: white;
+    border-color: white;
 }
 
 .nav {
@@ -121,9 +121,10 @@ section {
     background-color: white;
     padding: 0.5rem 0.5rem;
     border-radius: 16rem;
-
+    border-color: black;
+    border-width: 3px;
 }
 
 #github_btn:hover {
-    background-color: mediumpurple;
+    background-color: lightskyblue;
 }

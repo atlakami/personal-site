@@ -116,3 +116,15 @@ section {
 .projects_container p {
     margin-bottom: 1rem;
 }
+
+#github_btn {
+    background-color: white;
+    padding: 0.5rem 0.5rem;
+    border-width: 3px;
+    border-radius: 5rem;
+
+}
+
+#github_btn:hover {
+    background-color: mediumpurple;
+}

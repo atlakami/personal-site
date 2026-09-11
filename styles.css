@@ -39,6 +39,14 @@ header img {
     height: 100px;
 }
 
+section h2 {
+    color: #cdd6f4;
+}
+
+section p {
+    color: #cdd6f4;
+}
+
 .project1 {
     width: 300px;
     height: 300px;

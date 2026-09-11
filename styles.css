@@ -14,18 +14,13 @@ body {
 
 header {
     position: fixed;
-    top: 0.3rem;
-    transform: translateX(-50%);
-    left: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 5rem;
     padding: 0.5rem 1.5rem;
     z-index: 1000;
-    background-color: #585b70;
-    border-radius: 8rem;
-    backdrop-filter: blur(8px);
+    background-color: transparent;
 }
 
 header img {

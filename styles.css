@@ -9,11 +9,7 @@
 }
 
 body {
-    background-image: url('/images/background.png');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
+    background-color: #1e1e2e;
 }
 
 header {
@@ -27,7 +23,7 @@ header {
     gap: 5rem;
     padding: 0.5rem 1.5rem;
     z-index: 1000;
-    background-color: rgba(255, 255, 255, 0.4);
+    background-color: #585b70;
     border-radius: 8rem;
     backdrop-filter: blur(8px);
 }
@@ -46,8 +42,7 @@ header img {
 .project1 {
     width: 300px;
     height: 300px;
-    background-color: rgba(255, 255, 255, 0.4);
-    backdrop-filter: blur(8px);
+    background-color: #585b70;
     border-radius: 1rem;
     padding: 0.5rem 1.5rem;
     justify-content: center;
@@ -58,29 +53,28 @@ header img {
 }
 
 .project1 h3 {
-    color: black;
+    color: #cdd6f4;
     text-align: center;
 }
 
 .project1 p {
-    color: black;
+    color: #cdd6f4;
     text-align: center;
 }
 
 .project1 button {
-    background-color: white;
-    color: lightskyblue;
+    background-color: #7f849c;
+    color: #cdd6f4;
     padding: 0.5rem 1.5rem;
-    border-color: lightskyblue;
+    border-color: transparent;
     border-width: 3px;
     border-radius: 5rem;
 
 }
 
 .project1 button:hover {
-    background-color: lightskyblue;
-    color: white;
-    border-color: white;
+    background-color: #cdd6f4;
+    color: #7f849c;
 }
 
 .nav {
@@ -90,7 +84,7 @@ header img {
 
 li a {
     position: relative;
-    color: black;
+    color: #cdd6f4;
     font-weight: 300;
 }
 
@@ -102,11 +96,11 @@ section {
 }
 
 .section p {
-    color: white;
+    color: #cdd6f4;
 }
 
 .section h2 {
-    color: white;
+    color: #cdd6f4;
 }
 
 .projects_container h2 {
@@ -118,13 +112,11 @@ section {
 }
 
 #github_btn {
-    background-color: white;
+    background-color: #7f849c;
     padding: 0.5rem 0.5rem;
-    border-radius: 16rem;
-    border-color: black;
-    border-width: 3px;
+    border-color: transparent;
 }
 
 #github_btn:hover {
-    background-color: lightskyblue;
+    background-color: #b4befe;
 }

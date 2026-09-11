@@ -122,6 +122,7 @@ section {
 #github_btn {
     background-color: #7f849c;
     padding: 0.5rem 0.5rem;
+    border-radius: 16rem;
     border-color: transparent;
 }
 

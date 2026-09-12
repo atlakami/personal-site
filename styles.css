@@ -14,13 +14,20 @@ body {
 
 header {
     position: fixed;
+    width: 100%;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: left;
     gap: 5rem;
     padding: 0.5rem 1.5rem;
     z-index: 1000;
-    background-color: transparent;
+    background-color: #1e1e2e;
+}
+
+#header_content {
+    display: flex;
+    align-items: center;
+    gap: 5rem;
 }
 
 header img {
@@ -123,4 +130,22 @@ section {
 
 #github_btn:hover {
     background-color: #b4befe;
+}
+
+@media (max-width: 768px) {
+    header {
+        justify-content: center;
+        align-items: center;
+    }
+
+    #header_content {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+    }
+
+    .nav {
+        gap: 1rem;
+    }
 }

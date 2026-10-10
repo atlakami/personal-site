@@ -148,4 +148,9 @@ section {
     .nav {
         gap: 1rem;
     }
+
+    #hackatime_stats {
+        width: 250px;
+        height: 71px;
+    }
 }

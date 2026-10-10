@@ -131,7 +131,21 @@ section {
 }
 
 #github_btn:hover {
-    background-color: #b4befe;
+    background-color: #cdd6f4;
+}
+
+#pinterest_btn {
+    background-color: #7f849c;
+    height: 64px;
+    width: 64px;
+    padding: 0.5rem 0.5rem;
+    border-radius: 16rem;
+    border-color: transparent;
+}
+
+#pinterest_btn:hover {
+    content: url("/images/pinterest-dark.png");
+    background-color: #cdd6f4;
 }
 
 @media screen and (max-width: 500px) {

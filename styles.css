@@ -138,6 +138,10 @@ section {
         align-items: center;
     }
 
+    #about {
+        margin-top: 1rem;
+    }
+
     #header_content {
         flex-direction: column;
         justify-content: center;
@@ -150,7 +154,7 @@ section {
     }
 
     #hackatime_stats {
-        width: 250px;
-        height: 71px;
+        width: 285px;
+        height: 81px;
     }
 }

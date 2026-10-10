@@ -75,7 +75,7 @@ section p {
 .project1 button {
     background-color: #7f849c;
     color: #cdd6f4;
-    padding: 0.5rem 1.5rem;
+    padding: 0.5rem 0.5rem;
     border-color: transparent;
     border-width: 3px;
     border-radius: 5rem;
@@ -123,6 +123,8 @@ section {
 
 #github_btn {
     background-color: #7f849c;
+    height: 64px;
+    width: 64px;
     padding: 0.5rem 0.5rem;
     border-radius: 16rem;
     border-color: transparent;

@@ -147,9 +147,6 @@ section {
     background-color: #cdd6f4;
 }
 
-#pinterest_btn:hover #pinterest_img {
-    content: url("/images/pin-dark.png");
-}
 
 @media screen and (max-width: 500px) {
     html, body {

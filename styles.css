@@ -121,6 +121,11 @@ section {
     margin-bottom: 1rem;
 }
 
+.social_links {
+    justify-content: left;
+    align-items: center;
+}
+
 #github_btn {
     background-color: #7f849c;
     height: 64px;

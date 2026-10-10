@@ -143,6 +143,11 @@ section {
     border-color: transparent;
 }
 
+#pinterest_img {
+    height: 48px;
+    width: 37px;
+}
+
 #pinterest_btn:hover {
     content: url("/images/pinterest-dark.png");
     background-color: #cdd6f4;

@@ -97,11 +97,13 @@ li a {
     color: #cdd6f4;
     font-weight: 300;
 }
+
 .social_links {
+    display: flex;
     align-items: left;
     flex-direction: row;
 }
-li a button {
+.social_links a button {
     position: relative;
     background-color: #7f849c;
     height: 64px;
@@ -111,7 +113,7 @@ li a button {
     border-color: transparent;
 }
 
-li a button:hover {
+.social_links a button:hover {
     background-color: #cdd6f4;
 }
 

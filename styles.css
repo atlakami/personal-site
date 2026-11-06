@@ -98,6 +98,20 @@ li a {
     font-weight: 300;
 }
 
+li a button {
+    position: relative;
+    background-color: #7f849c;
+    height: 64px;
+    width: 64px;
+    padding: 0.5rem 0.5rem;
+    border-radius: 16rem;
+    border-color: transparent;
+}
+
+li a button:hover {
+    background-color: #cdd6f4;
+}
+
 section {
     min-height: 50vh;
     padding: 5rem 10%;
@@ -120,38 +134,6 @@ section {
 .projects_container p {
     margin-bottom: 1rem;
 }
-
-.social_links {
-    justify-content: left;
-    align-items: center;
-}
-
-#github_btn {
-    background-color: #7f849c;
-    height: 64px;
-    width: 64px;
-    padding: 0.5rem 0.5rem;
-    border-radius: 16rem;
-    border-color: transparent;
-}
-
-#github_btn:hover {
-    background-color: #cdd6f4;
-}
-
-#pinterest_btn {
-    background-color: #7f849c;
-    height: 64px;
-    width: 64px;
-    padding: 0.5rem 0.5rem;
-    border-radius: 16rem;
-    border-color: transparent;
-}
-
-#pinterest_btn:hover {
-    background-color: #cdd6f4;
-}
-
 
 @media screen and (max-width: 500px) {
     html, body {

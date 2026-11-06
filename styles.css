@@ -102,6 +102,7 @@ li a {
     display: flex;
     align-items: left;
     flex-direction: row;
+    gap: 1rem;
 }
 .social_links a button {
     position: relative;

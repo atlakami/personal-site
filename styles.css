@@ -97,7 +97,10 @@ li a {
     color: #cdd6f4;
     font-weight: 300;
 }
-
+.social_links {
+    align-items: left;
+    flex-direction: row;
+}
 li a button {
     position: relative;
     background-color: #7f849c;
